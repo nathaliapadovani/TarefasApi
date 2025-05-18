@@ -157,9 +157,3 @@ A interface Swagger estará disponível para testar os endpoints da API.
 **Resposta esperada:** `204 No Content`
 
 ---
-
-## 📸 Interface Swagger
-
-Abaixo está a interface visual gerada automaticamente pela documentação Swagger da API:
-
-
